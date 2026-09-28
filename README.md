@@ -2,7 +2,7 @@
 
 Personal portfolio of **Saad Bin Hammad**  MS Computer Science (Gold Medalist), working at the intersection of geospatial deep learning, generative AI, and MLOps.
 
-🔗 **Live site:** https://saadhammad14.github.io/
+🔗 **Live site:**    https://saadhammad14.github.io/portfolio/
 
 ## About
 
