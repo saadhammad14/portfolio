@@ -11,7 +11,7 @@ From landslide segmentation on satellite imagery to production RAG systems, I tu
 - 🛰️ Geospatial AI & Remote Sensing
 - 🤖 Generative AI & MLOps
 - 📄 Published research (IEEE GRSL, IGARSS)
-Paper link: **https://ieeexplore.ieee.org/abstract/document/11430533**
+- Paper link: **https://ieeexplore.ieee.org/abstract/document/11430533**
 
 
 ## Contact
