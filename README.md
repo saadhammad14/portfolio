@@ -21,4 +21,3 @@ From landslide segmentation on satellite imagery to production RAG systems, I tu
 - **LinkedIn:** https://www.linkedin.com/in/saad-bin-hammad-89b584108/
 - **GitHub:** https://github.com/saadhammad14
 - **Company:** https://rsa.techsupa.com/ & https://techsupa.com/
-- **Phone:** +92 333 4818881
